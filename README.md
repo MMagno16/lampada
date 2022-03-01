@@ -1,2 +1,2 @@
-# lampada
-Mini projeto
+# Lâmpada
+Mini projeto HTML, CSS e JS
